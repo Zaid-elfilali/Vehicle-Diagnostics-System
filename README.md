@@ -71,13 +71,15 @@ The project was developed using:
 /Vehicle-Diagnostics-System
 │
 ├── /Code
-│ ├── main_teste_speed.c
 │ ├── config.h
 │ ├── USART_lib.h
-│ └── (other source files)
+│ ├── LCD_LIB_4bits.h
+│ ├── ADC.c
+│ ├── Main_Code.c
+│ ├── USART_lib.c
+│ └── LCD_LIB_4bits.c
 │
-├── /Proteus
-│ └── simulation.pdsprj (optional)
+├── Proteus_image.PNG
 │
 ├── /Documentation
 │ └── MINI PROJECT REPORT.pdf
