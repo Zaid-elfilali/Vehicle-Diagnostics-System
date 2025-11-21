@@ -69,22 +69,20 @@ The project was developed using:
 
 ## 📂 Repository Structure  
 /Vehicle-Diagnostics-System
-│
-├── /Code
-│ ├── config.h
-│ ├── USART_lib.h
-│ ├── LCD_LIB_4bits.h
-│ ├── ADC.c
-│ ├── Main_Code.c
-│ ├── USART_lib.c
-│ └── LCD_LIB_4bits.c
-│
-├── Proteus_image.PNG
-│
-├── /Documentation
-│ └── MINI PROJECT REPORT.pdf
-│
-└── README.md
+/Code
+   config.h
+   USART_lib.h
+   LCD_LIB_4bits.h
+   ADC.c
+   Main_Code.c
+   USART_lib.c
+   LCD_LIB_4bits.c
+
+Proteus_image.PNG
+
+/Documentation
+   MINI PROJECT REPORT.pdf
+README.md
 
 yaml
 Copy code
