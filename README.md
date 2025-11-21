@@ -84,8 +84,6 @@ Proteus_image.PNG
    MINI PROJECT REPORT.pdf
 README.md
 
-yaml
-Copy code
 
 ---
 
